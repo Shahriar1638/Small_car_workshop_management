@@ -59,11 +59,9 @@ $result = mysqli_query($conn, $query);
         </div>
     </div>
     <main>
-        <h1>Admin Dashboard</h1>
-        <p>Client Appointments Overview</p>
-        
+        <h1>Client Appointments Overview</h1>
         <div class="admin-container">
-            <div class="table-wrapper">
+            <div class="table-container">
                 <table class="appointments-table">
                     <thead>
                         <tr>
