@@ -123,7 +123,8 @@ $result = mysqli_query($conn, $query);
         </div>
         
         <div class="admin-actions">
-            <a href="index.php" class="back-btn">← Back to Home</a>
+            <a href="index.php" class="back-btn">&larr; Back to Home</a>
+            <a href="mechanicList.php" class="back-btn">Go to Mechanic details &rarr;</a>
         </div>
     </main>
 

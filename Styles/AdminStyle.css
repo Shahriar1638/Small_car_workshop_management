@@ -74,6 +74,10 @@ main > p {
 
 .admin-actions {
     margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: cneter;
 }
 
 .back-btn {
